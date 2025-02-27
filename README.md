@@ -1,2 +1,2 @@
-# ${{\color{Purple}\Huge{\textsf{  LooseLinuxScripts - Backup \}}}}\$
-Collection of single file scripts for use on different Linux variants
+# ${{\color{Purple}\Huge{\textsf{  LoosePowershellScripts \}}}}\$
+Collection of single file scripts using Powershell
