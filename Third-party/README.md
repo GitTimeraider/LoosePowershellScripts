@@ -1,2 +1,3 @@
 # ${{\color{Purple}\Huge{\textsf{  LoosePowershellScripts \}}}}\$
-Collection of single file scripts using Powershell
+<br />
+## Trilium_Update_Install.ps1
