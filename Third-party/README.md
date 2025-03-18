@@ -1,3 +1,3 @@
 # ${{\color{Purple}\Huge{\textsf{  LoosePowershellScripts \}}}}\$
 <br />
-## Trilium_Update_Install.ps1
+## Trilium_Update_Install
